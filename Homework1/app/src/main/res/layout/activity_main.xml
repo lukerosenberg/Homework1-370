@@ -12,7 +12,7 @@
 
     <LinearLayout
         android:id="@+id/inner_layout"
-        android:orientation="horizontal"
+        android:orientation="vertical"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" >
         <TextView
